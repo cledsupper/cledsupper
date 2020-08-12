@@ -11,17 +11,3 @@
 ## Legenda
 1. Eu sou um técnico em informática pelo Instituto Federal do Rio Grande do Norte, campus de Ipanguaçu.
 2. E estou cursando sistemas de informação na Universidade Federal Rural do Semi-Árido, campus de Angicos.
-
-<!--
-**cledsupper/cledsupper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-*
-* but these statements... do not... ignore t...
-* ```Don't dive deep, you should always try again, and again, and...
-* aHR0cHM6Ly93d3cuY3Z2Lm9yZy5icgo=
-* YUhSMGNITTZMeTkzZDNjdVkzWjJMbTl5Wnk1aWNnbz0K
-* WVVoU01HTklUVFpNZVRrelpETmpkVmt6V2pKTWJUbDVXbmsxYVdObmJ6MEsK
-* ...
-* WVVoU01HTklUVFpNZVRsdVlWaFNiMlJYU1hWWk1qbDBUREo0YkdNelRuWmFSemwxUTJjOVBRbz0K
-* This is not a joke, I'm just telling you the truth.
-* Well... I'm tired. So goodbye!```
--->
