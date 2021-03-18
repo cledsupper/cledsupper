@@ -10,7 +10,7 @@
 
 ## Uma tentativa de autobiografia
 
-Eu aprendi a programar nas linguagens C, Python e BASH de maneira AUTODIDATA, i.e., pesquisando por conta própria. O C foi a primeira linguagem de programação que aprendi, desde 2013, após encontrar uma apostila da UFMG pesquisando no Google. Fui motivado a aprendê-la devido a discussões em fóruns online sobre criação programas com construtores de jogos para pessoas que, como eu, não sabiam o que era escrever código. Na escola, aprendi uma pseudolinguagem de programação com o software Visualg, e tive um ótimo desempenho devido ao meu conhecimento prévio em C.
+Eu aprendi a programar nas linguagens C, Python e Shell Script (especialmente a variante de BASH) de maneira AUTODIDATA, i.e., pesquisando por conta própria. O C foi a primeira linguagem de programação que aprendi, desde 2013, após encontrar uma apostila da UFMG pesquisando no Google. Fui motivado a aprendê-la devido a discussões em fóruns online sobre criação programas com construtores de jogos para pessoas que, como eu, não sabiam o que era escrever código. Na escola, aprendi uma pseudolinguagem de programação com o software Visualg, e tive um ótimo desempenho devido ao meu conhecimento prévio em C.
 
 Mais tarde, comecei a estudar a linguagem Java motivado por boatos de que a disciplina de Programação Estruturada e Orientada a Objetos utilizaria essa linguagem, o que se confirmou mais tarde. Também aprendi a linguagem PHP no IFRN, e o EdTextos foi uma avaliação que fiz com alguns colegas. Também em paralelo a esses estudos, eu havia aprendido a programar para Android com apostilas básicas e gratuitas disponíveis na internet, e tinha desenvolvido o [AEditor](https://gitlab.com/cledsupper/aeditor/), que serviu como base para o EdTextos.
 
