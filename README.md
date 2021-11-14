@@ -1,7 +1,7 @@
 # Olá, pessoas! 👋
 
-## Meu nome é Cledson. Eu sou desenvolvedor de sistemas web com ênfase em Java e JavaScript, e um programador de Linux nas horas vagas.
+## Meu nome é Cledson. Eu sou um programador de sistemas GNU/Linux com sabedoria nas linguagens Shell, C e Python.
 
-### [Links úteis](https://cledsupper.github.io/)
+### [Links antissociais e outros repositórios](https://cledsupper.github.io/)
 
 [Nota de autoria](AUTORIA.md)
