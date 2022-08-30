@@ -1,6 +1,6 @@
 # Olá, pessoas! 👋
 
-## Eu sou um programador de sistemas GNU/Linux com sabedoria nas Java, Python, JavaScript, C e Shell Script.
+## Eu sou um programador de sistemas GNU/Linux com sabedoria nas linguagens Java, Python, JavaScript, C e Shell Script.
 
 ### [Links antissociais e outros repositórios](https://cledsupper.github.io/)
 
