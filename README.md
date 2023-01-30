@@ -4,8 +4,11 @@
 
 ### [Links antissociais e outros repositórios](https://cledsupper.github.io/)
 
-### Chave GnuPG (OpenPGP) para você criptografar a sua mensagem ou verificar a minha assinatura em algum arquivo:
+### Meus principais projetos
 
-[BE97 BD1E CE91 7313 8F29  59CC 5A08 A666 8F2F 997A](https://drive.google.com/file/d/1eD_sgewo4uKGDrKlPWRUkO1_SVsY3mHy/view?usp=drivesdk)
+1. [MoniBat](https://github.com/cledsupper/monibat): não é um monitor de bateria qualquer, é um protótipo funcional de app bastante configurável com a finalidade de corrigir o indicador de carga em vários dispositivos Android. E sim, é um app para **corrigir mesmo**, pois vários aparelhos Android podem desligar antes mesmo do Android mostrar 5 %.
+2. [BatService-A20](https://github.com/cledsupper/batservice-a20): é um serviço de monitoramento da bateria que promete parar o carregamento da bateria em níveis de carga configuráveis (somente em aparelhos com root!).
+3. [express-locallibrary-tutorial](https://github.com/cledsupper/express-locallibrary-tutorial): um protótipo de um sistema de uma biblioteca, que eu desenvolvi com um guia online da Mozilla Developer Network.
+4. [xfce4-windowck-plugin](https://github.com/cledsupper/xfce4-windowck-plugin): sim, eu sei mexer em softwares prontos. É um plugin para o XFCE que permite colocar os botões da janela em exibição, no painel do XFCE. Este é um fork do plugin honônimo para forçar os botões de janela a desaparecer quando a janela maximizada está desfocada, evitando assim que o usuário feche acidentalmente a janela maximizada enquanto queria fechar a janela sobreposta.
 
 [Nota de autoria](AUTORIA.md)
