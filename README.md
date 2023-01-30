@@ -10,5 +10,6 @@
 2. [BatService-A20](https://github.com/cledsupper/batservice-a20): é um serviço de monitoramento da bateria que promete parar o carregamento da bateria em níveis de carga configuráveis (somente em aparelhos com root!).
 3. [express-locallibrary-tutorial](https://github.com/cledsupper/express-locallibrary-tutorial): um protótipo de um sistema de uma biblioteca, que eu desenvolvi com um guia online da Mozilla Developer Network.
 4. [xfce4-windowck-plugin](https://github.com/cledsupper/xfce4-windowck-plugin): sim, eu sei mexer em softwares prontos. É um plugin para o XFCE que permite colocar os botões da janela em exibição, no painel do XFCE. Este é um fork do plugin honônimo para forçar os botões de janela a desaparecer quando a janela maximizada está desfocada, evitando assim que o usuário feche acidentalmente a janela maximizada enquanto queria fechar a janela sobreposta.
+5. [Leshto Batt](https://gitlab.com/leshto-battery/leshto-batt): mais uma aplicação de monitoramento de bateria, mas desta vez, é apenas um monitor bem detalhado para o sistema Linux.
 
 [Nota de autoria](AUTORIA.md)
