@@ -1,8 +1,6 @@
 # Olá, pessoas! 👋
 
-## Eu sou um programador de sistemas GNU/Linux com sabedoria nas linguagens C, Python, Kotlin, Rust, JavaScript e Shell Script.
-
-### [Links antissociais e outros repositórios](https://cledsupper.github.io/)
+## Eu sou programador de sistemas GNU/Linux, desenvolvedor de app e Técnico de T.I no IFRN.
 
 ### Meus principais projetos
 
