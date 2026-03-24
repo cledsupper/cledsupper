@@ -10,4 +10,8 @@
 4. [xfce4-windowck-plugin](https://github.com/cledsupper/xfce4-windowck-plugin): é fork de um plugin para o XFCE que força os botões de janela a desaparecer do painel quando a janela maximizada está desfocada, evitando assim que o usuário feche acidentalmente a janela maximizada enquanto queria fechar uma janelinha sobreposta;
 5. [Leshto Batt](https://gitlab.com/leshto-battery/leshto-batt): mais uma aplicação de monitoramento de bateria, mas desta vez, é apenas um monitor bem detalhado para o sistema Linux.
 
+### Entre em contato
+
+[![Chat on Matrix](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/#matrix.to:matrix.org)
+
 [Nota de autoria](AUTORIA.md)
