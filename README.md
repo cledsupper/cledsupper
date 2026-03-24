@@ -12,6 +12,6 @@
 
 ### Entre em contato
 
-[![Chat on Matrix](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/#matrix.to:matrix.org)
+[![Chat on Matrix](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/@lessodon2:matrix.org)
 
 [Nota de autoria](AUTORIA.md)
